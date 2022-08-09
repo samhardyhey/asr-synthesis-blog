@@ -1,0 +1,11 @@
+exchange_index,id,text,speaker,episode_id
+0,TransformerGenerator_1,hello ! what are you doing today ? i work at the local post office . where do you work ?,1,GQbE8rNunY3eM6e6dbukdE
+1,TransformerGenerator_2,i love driving my tractor and listening to music . what kind of post office work do you do ?,2,GQbE8rNunY3eM6e6dbukdE
+2,TransformerGenerator_1,"that sounds great ! i work with the postal service , but my father drives a car . what do you drive ?",1,GQbE8rNunY3eM6e6dbukdE
+3,TransformerGenerator_2,i drive my sister ' s pole dancer car . she ' s a pole driver . what else do you like to do ?,2,GQbE8rNunY3eM6e6dbukdE
+4,TransformerGenerator_1,i like to read . do you have any pets ? i ' ve a german shephard named barniaby .,1,GQbE8rNunY3eM6e6dbukdE
+5,TransformerGenerator_2,i love dogs ! my sister has a cat . she has a red lab mix . what is your favorite color ?,2,GQbE8rNunY3eM6e6dbukdE
+6,TransformerGenerator_1,"i love gray , and my favorite is grey because of how cool it is . what about you ?",1,GQbE8rNunY3eM6e6dbukdE
+7,TransformerGenerator_2,"i love red , but blue is probably my favorite . i like classical music too . what are your hobbies ?",2,GQbE8rNunY3eM6e6dbukdE
+8,TransformerGenerator_1,"i love to play hockey , watch nascar , volunteer at an animal shelter , and read about animals .",1,GQbE8rNunY3eM6e6dbukdE
+9,TransformerGenerator_2,that is so cool ! i ' d love to volunteer at the animal shelter . do they have animals ?,2,GQbE8rNunY3eM6e6dbukdE

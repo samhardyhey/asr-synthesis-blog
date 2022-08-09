@@ -1,0 +1,11 @@
+exchange_index,id,text,speaker,episode_id
+0,TransformerGenerator_1,"hello , how are you ? i ' m a bartender at a local bar . do you like chicken ?",1,YDYuorxoNjTPno8EmVSVvr
+1,TransformerGenerator_2,i ' ve never had that . i ' ll cook it for you . my favorite is fish .,2,YDYuorxoNjTPno8EmVSVvr
+2,TransformerGenerator_1,i don ' t mind it but i like chicken a lot . what do you do for a living ?,1,YDYuorxoNjTPno8EmVSVvr
+3,TransformerGenerator_2,i am an accountant for a small business . how about you ? what do your hobbies ?,2,YDYuorxoNjTPno8EmVSVvr
+4,TransformerGenerator_1,i am a student at the bar . i love photography . my hair is blonde and blue . you ?,1,YDYuorxoNjTPno8EmVSVvr
+5,TransformerGenerator_2,i like to read comics . i like spiderman as well . you like tv ? i do .,2,YDYuorxoNjTPno8EmVSVvr
+6,TransformerGenerator_1,i am not a big fan of tv . my best friends and i are going to a comedy club later .,1,YDYuorxoNjTPno8EmVSVvr
+7,TransformerGenerator_2,"that ' s awesome . i wish i had more friends . i cook , and fish . . .",2,YDYuorxoNjTPno8EmVSVvr
+8,TransformerGenerator_1,that ' sn ' t too bad ! do you have a favorite food ? what are your favorite ?,1,YDYuorxoNjTPno8EmVSVvr
+9,TransformerGenerator_2,my favorite food is fried chicken . whats yours ? i like fried potatoes . what are yours ?,2,YDYuorxoNjTPno8EmVSVvr

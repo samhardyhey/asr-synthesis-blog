@@ -14,6 +14,6 @@ python -c 'import torch; print(torch.cuda.is_available()); print(torch.cuda.devi
 
 echo "Installing low-level audio libraries"
 apt-get update -y
-apt install ffmpeg
 apt-get install alsa-utils -y
 apt-get install espeak libespeak1 -y
+apt install ffmpeg -y

@@ -1,8 +1,12 @@
+# base
+pandas==1.4.3
+shortuuid==1.0.9
+clean-py==0.5
+
 # transcript generation
 transformers==4.21.0
 datasets==2.4.0
 py7zr==0.20.0
-pandas==1.4.3
 
 # TTS
 gTTS==2.2.4

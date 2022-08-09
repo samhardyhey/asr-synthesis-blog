@@ -1,0 +1,11 @@
+exchange_index,id,text,speaker,episode_id
+0,TransformerGenerator_1,i ' m so lonely . i live on the cloud in the middle of the night . you ?,1,JdiABjHbswXuVSpzqMut2A
+1,TransformerGenerator_2,"that is no fun , i am so sorry to hear that . what do you do for fun ?",2,JdiABjHbswXuVSpzqMut2A
+2,TransformerGenerator_1,"i play with my superpower , superpower . what ' s your name ? i ' ll show you .",1,JdiABjHbswXuVSpzqMut2A
+3,TransformerGenerator_2,"my name is taylor swift , i love country music ! what is your favorite song ? mine is country .",2,JdiABjHbswXuVSpzqMut2A
+4,TransformerGenerator_1,i ' d have to say country country . i ' dn ' t mind if my daughter listened to it .,1,JdiABjHbswXuVSpzqMut2A
+5,TransformerGenerator_2,"i love listening to all kinds of music , especially country . what else do you like to do ?",2,JdiABjHbswXuVSpzqMut2A
+6,TransformerGenerator_1,i like to play sports . how about you ? are you into sports ? i love baseball ! !,1,JdiABjHbswXuVSpzqMut2A
+7,TransformerGenerator_2,"i love sports , and i am a fan of baseball ! what kind of car do you drive ?",2,JdiABjHbswXuVSpzqMut2A
+8,TransformerGenerator_1,i drive an old toyota corolla . how old are you ? do you live in a house ?,1,JdiABjHbswXuVSpzqMut2A
+9,TransformerGenerator_2,"i don ' t live in the house , but i drive my nissan pathfiner . have you ever had a car before ?",2,JdiABjHbswXuVSpzqMut2A

@@ -1,0 +1,11 @@
+exchange_index,id,text,speaker,episode_id
+0,TransformerGenerator_1,"hey there , what do you like to do for fun ? i am looking for work at a place .",1,K39bL4YpGkM6tGubMRYBHv
+1,TransformerGenerator_2,"hi , i love to read . i read a lot . i ' ve been with the family since i was a teenager .",2,K39bL4YpGkM6tGubMRYBHv
+2,TransformerGenerator_1,"that ' s nice , i ' m a stay at home mom . my mom works at a dentist office .",1,K39bL4YpGkM6tGubMRYBHv
+3,TransformerGenerator_2,i ' d never break a bone . i never even ate kosher food . how about you ?,2,K39bL4YpGkM6tGubMRYBHv
+4,TransformerGenerator_1,"i ' ll eat whatever i want , i like kosher foods too . what is your favorite food ?",1,K39bL4YpGkM6tGubMRYBHv
+5,TransformerGenerator_2,"i ' dn ' t say i eat it , i don ' t eat a lot of food .",2,K39bL4YpGkM6tGubMRYBHv
+6,TransformerGenerator_1,i love listening to travis scott while i play . he is my favorite . do you listen to music .,1,K39bL4YpGkM6tGubMRYBHv
+7,TransformerGenerator_2,"i like to listen to jazz , i am a big music fan . how many kids do you have ?",2,K39bL4YpGkM6tGubMRYBHv
+8,TransformerGenerator_1,"i have a few , i have always loved jazz . i love all kinds of music , do you ?",1,K39bL4YpGkM6tGubMRYBHv
+9,TransformerGenerator_2,"yes , i was an only child so i have many favorites . what are your hobbies ?",2,K39bL4YpGkM6tGubMRYBHv

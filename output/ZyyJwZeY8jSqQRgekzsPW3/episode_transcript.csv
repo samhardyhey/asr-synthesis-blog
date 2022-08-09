@@ -1,0 +1,11 @@
+exchange_index,id,text,speaker,episode_id
+0,TransformerGenerator_1,hello ! i ' ve a dog . what kind of dogs do you have ? mine is a cat .,1,ZyyJwZeY8jSqQRgekzsPW3
+1,TransformerGenerator_2,i don ' t have any pets . i ' m a veggie . do you like meat ?,2,ZyyJwZeY8jSqQRgekzsPW3
+2,TransformerGenerator_1,i do . i do not eat meat . what is your favorite food ? my three siblings eat meat a lot .,1,ZyyJwZeY8jSqQRgekzsPW3
+3,TransformerGenerator_2,i love pizza . do they have purple and green in their room ? i have purple in mine .,2,ZyyJwZeY8jSqQRgekzsPW3
+4,TransformerGenerator_1,pizza is great . they ' re all vegan . i like to eat tacos and pizza .,1,ZyyJwZeY8jSqQRgekzsPW3
+5,TransformerGenerator_2,i have a horse . what do you do for fun ? i ride horses in my free time .,2,ZyyJwZeY8jSqQRgekzsPW3
+6,TransformerGenerator_1,"that ' s a nice hobby . i enjoy hanging out with my three sisters , who live on the farm .",1,ZyyJwZeY8jSqQRgekzsPW3
+7,TransformerGenerator_2,do you go to school ? i finished high school two years ago . i want to graduate in two .,2,ZyyJwZeY8jSqQRgekzsPW3
+8,TransformerGenerator_1,i am a junior in high school . congratulations on graduation ! i am studying to be a vet .,1,ZyyJwZeY8jSqQRgekzsPW3
+9,TransformerGenerator_2,that is awesome ! i was going to go to vet school but i decided to be an animal vet instead .,2,ZyyJwZeY8jSqQRgekzsPW3
