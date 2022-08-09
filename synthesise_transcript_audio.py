@@ -13,6 +13,7 @@ import shortuuid
 import soundfile
 import srsly
 from pydub import AudioSegment
+import argparse
 
 logging.getLogger().setLevel(logging.INFO)
 NUM_SELF_CHATS = 5
@@ -140,17 +141,15 @@ def sum_left_right_mono_audio(output_dir):
 
 
 if __name__ == "__main__":
-    # parser = argparse.ArgumentParser(
-    #     prog="synthesize_transcript_audio",
-    #     description="Synthesize stereo audio in the style of a call-centre exchange",
-    # )
-    # parser.add_argument("output_dir", type=str, help="Output dir")
-    # args = parser.parse_args()
+    parser = argparse.ArgumentParser(
+        prog="synthesize_transcript_audio",
+        description="Synthesize stereo audio in the style of a call-centre exchange",
+    )
+    parser.add_argument("output_dir", type=str, help="Output dir")
+    args = parser.parse_args()
 
     # create/null output dir
-
-    # base_output_dir = Path(args.output_dir)
-    base_output_dir = Path("./output")
+    base_output_dir = Path(args.output_dir)
     if not base_output_dir.exists():
         raise ValueError("output_dir does not exist")
     shutil.rmtree((str(base_output_dir))) if base_output_dir.exists() else None
