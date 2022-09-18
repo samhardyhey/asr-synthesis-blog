@@ -1,5 +1,5 @@
 ## ASR Synthesis
-Notebooks and scripts for the synthesis of stereo call transcripts. See the accompanying blog post here.
+Notebooks and scripts for the synthesis of stereo call transcripts. See the accompanying blog post [here](https://www.samhardyhey.com/poor-mans-asr-pt-2).
 
 ## Install
 - Conda env creation, python dependencies, low-level audio tools via `create_env.sh`
